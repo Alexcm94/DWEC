@@ -1,0 +1,8 @@
+Cambiando Estilos con JS:
+	https://www.w3schools.com/js/js_htmldom_css.asp
+Referencia de Objetos de Estilo:
+	https://www.w3schools.com/jsref/dom_obj_style.asp
+Configuración de estilos CSS utilizando JavaScript:
+	https://www.kirupa.com/html5/setting_css_styles_using_javascript.htm
+Equivalencia entre estilos CSS y JS:
+	https://www.universalwebservices.net/web-programming-resources/javascript/modify-css-with-javascript/

@@ -1,0 +1,102 @@
+<html>
+    <head>
+        <title>Doc3Ejer1</title>
+        <meta name="author" content="Jesus">
+        <meta name="description" content="Presentacion">
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+        <meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8">
+        <style>
+            label{
+                display: block;
+                margin: 10px;
+            }
+            #nombreOk{
+                display: none;
+            }
+            #nombreError{
+                display: none;
+            }
+            #emailOk{
+                display: none;
+            }
+            #emailError{
+                display: none;
+            }
+            #telOk{
+                display: none;
+            }
+            #telError{
+                display: none;
+            }
+            #dniOk{
+                display: none;
+            }
+            #dniError{
+                display: none;
+            }
+            #apellidosOk{
+                display: none;
+            }
+            #apellidosError{
+                display: none;
+            }
+            #usuarioOk{
+                display: none;
+            }
+            #usuarioError{
+                display: none;
+            }
+            
+            
+        </style>
+    </head>
+    <body>
+
+        <form method="post">
+            <fieldset>
+                <label>
+                    <b>Nombre - </b>
+                    <input type="text" name="nombre" id="nombre" onblur="validarNombre()">
+                    <img src="correcto.png" width="25px" height="25px" id="nombreOk">
+                    <img src="error.png" width="25px" height="25px" id="nombreError">
+                </label>
+                <label>
+                    <b>Apellidos - </b>
+                    <input type="text" name="apellidos" id="apellidos" onblur="validarApellidos()">
+                    <img src="correcto.png" width="25px" height="25px" id="apellidosOk">
+                    <img src="error.png" width="25px" height="25px" id="apellidosError">
+                </label>
+                <label>
+                    <b>Teléfono - </b>
+                    <input type="text" name="tel" id="tel" onblur="validarTel()">
+                    <img src="correcto.png" width="25px" height="25px" id="telOk">
+                    <img src="error.png" width="25px" height="25px" id="telError">
+                </label>
+                 <label>
+                    <b>DNI - </b>
+                    <input type="text" name="dni" id="dni" onblur="validarDNI()">
+                    <img src="correcto.png" width="25px" height="25px" id="dniOk">
+                    <img src="error.png" width="25px" height="25px" id="dniError">
+                </label>
+                 <label>
+                    <b>E-mail - </b>
+                    <input type="text" name="email" id="email" onblur="validarEmail()">
+                    <img src="correcto.png" width="25px" height="25px" id="emailOk">
+                    <img src="error.png" width="25px" height="25px" id="emailError">
+                </label>
+                <label>
+                    <b>Nombre de usuario - </b>
+                    <input type="text" name="usuario" id="usuario" onblur="validarUsuario()">
+                    <img src="correcto.png" width="25px" height="25px" id="usuarioOk">
+                    <img src="error.png" width="25px" height="25px" id="usuarioError">
+                </label>
+              
+                <button type="submit" name="enviar">Insertar</button>
+            </fieldset>
+        </form>
+        
+        <script type="text/javascript" src="Doc3Ejerc1.js"></script>
+    </body>
+
+
+</html>

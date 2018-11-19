@@ -1,0 +1,6 @@
+Eventos táctiles =>
+	https://mobiforge.com/design-development/html5-mobile-web-touch-events
+Guía Referencia de Eventos Táctiles:
+	https://www.w3.org/TR/touch-events/
+Movimiento y orientación del dispositivo:
+	https://developers.google.com/web/fundamentals/native-hardware/device-orientation/

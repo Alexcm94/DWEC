@@ -1,0 +1,8 @@
+EVENTOS:
+
+1) ¿QUÉ ES UN EVENTO?
+	http://www.tutorialspoint.com/javascript/javascript_events.htm
+2) LISTA COMPLETA DE EVENTOS + BUSCADOR DE DUDAS
+	https://developer.mozilla.org/en-US/docs/Web/Events
+3) CAPTURANDO EVENTOS
+	http://javascript.info/bubbling-and-capturing

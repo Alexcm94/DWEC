@@ -1,0 +1,2 @@
+¿Cómo manejar los coockies? =>
+	https://www.w3schools.com/js/js_cookies.asp

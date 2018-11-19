@@ -1,0 +1,17 @@
+UNIDAD 4.
+https://www.youtube.com/watch?v=9hLmX9FX2KA => EU COOCKIE LAW
+
+READING:
+https://medium.freecodecamp.org/making-sense-of-front-end-build-tools-3a1b3a87043b => Front End Build Tools 
+									(Herramientas de construcción de front-end)
+
+
+https://resources.infosecinstitute.com/risk-associated-cookies/   => Coockies
+
+PREGUNTAS READING:
+	What is a cookie?
+	What cookies are used for?
+	How Cookies Are Initialized in Browsers?
+	What types of Cookies do you know?
+	What are the common risks of cookies?
+	How can you prevent this risks on your websites?
